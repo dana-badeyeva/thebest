@@ -1,1 +1,4 @@
-Some text here
+
+function getPerson(name, surname) {
+  return name + " " + surname;
+}
